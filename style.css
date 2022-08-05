@@ -1,0 +1,41 @@
+body {
+    background-color: orange;
+
+}
+h1{
+    font-family: 'Times New Roman';
+    font-size: 100px;
+    text-decoration: underline;
+    font-weight: bold;
+
+}
+img {
+    width: 400px;
+    height: 400px;
+    margin: 30px
+}
+
+.container-1 {
+    background: #b97a57;
+    margin: 50px;
+    padding: 30px;
+
+}
+
+.container-2 {
+    background-color: #c8bfe7;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 50px;
+}
+
+p {
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+    border-style: solid;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20pc;
+    
+}
